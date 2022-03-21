@@ -1,0 +1,972 @@
+drugName,drugId
+Atropine Sulfate,0
+Zolpidem Tartrate,1
+Midazolam HCl,2
+Nitroglycerin SL,3
+Sucralfate,4
+Meperidine,5
+Nitroprusside Sodium,6
+Captopril,7
+Propofol (Generic),8
+Hydralazine HCl,9
+Metformin,10
+Maalox/Benadryl/Lidocaine,11
+Ibuprofen,12
+Cefazolin,13
+Hespan,14
+Diovan,15
+Oxazepam,16
+Glipizide,17
+Albuterol,18
+Humulin-R Insulin,19
+Amaryl,20
+Diphenhydramine HCl,21
+Tamsulosin HCl,22
+Pravastatin,23
+Fluticasone-Salmeterol (100/50),24
+Aluminum-Magnesium Hydrox.-Simethicone,25
+Soln.,26
+Epinephrine,27
+Lidocaine,28
+Terazosin HCl,29
+Ferrous Gluconate,30
+Atenolol,31
+Citalopram Hydrobromide,32
+Finasteride,33
+Isosorbide Mononitrate (Extended Release),34
+Minoxidil,35
+Tolterodine,36
+Nicotine Patch,37
+Lactulose,38
+Metronidazole,39
+Hydrocortisone Na Succ.,40
+Fludrocortisone Acetate,41
+Cosyntropin,42
+Magnesium Oxide,43
+Ceftriaxone,44
+Salmeterol Xinafoate Diskus (50 mcg),45
+Fluticasone Propionate 110mcg,46
+ChlorproMAZINE,47
+Clopidogrel Bisulfate,48
+Doxazosin,49
+Lidocaine 1%,50
+Albuterol Neb Soln,51
+Nitroglycerin Patch,52
+Allopurinol,53
+D5 1/2NS,54
+Procainamide HCl,55
+Amlodipine,56
+Diltiazem,57
+Famotidine,58
+Azithromycin,59
+Codeine Sulfate,60
+CefePIME,61
+0.9% Sodium Chloride (Mini Bag Plus),62
+Neutra-Phos,63
+Benzonatate,64
+Diazepam,65
+Guaifenesin-Dextromethorphan,66
+Ondansetron,67
+Polyethylene Glycol,68
+pramipexole,69
+Rosuvastatin Calcium,70
+Tamsulosin,71
+Levothyroxine Sodium,72
+Omeprazole,73
+Sodium Chloride Nasal,74
+traZODONE,75
+Heparin Flush (10 units/ml),76
+PredniSONE,77
+Eptifibatide,78
+Simethicone,79
+Aluminum-Magnesium Hydroxide,80
+Prochlorperazine,81
+Nifedipine CR,82
+Hydrochlorothiazide,83
+Nadolol,84
+Norepinephrine,85
+Propoxyphene Nap.-Apap (N-100),86
+Iso-Osmotic Sodium Chloride,87
+Vasopressin,88
+Piperacillin-Tazobactam Na,89
+Albuterol Inhaler,90
+Ipratropium Bromide MDI,91
+MethylPREDNISolone Sodium Succ,92
+Vecuronium Bromide,93
+Isosorbide Mononitrate,94
+Prednisone,95
+Namenda,96
+Pantoprazole Sodium,97
+Donepezil,98
+Dextrose 5%,99
+traMADOL,100
+NS (Mini Bag Plus),101
+Dexamethasone,102
+Lidocaine Jelly 2% (Urojet),103
+Cetylpyridinium Chl (Cepacol),104
+Amitriptyline HCl,105
+Methimazole,106
+Hydromorphone,107
+Albuterol-Ipratropium,108
+Ciprofloxacin HCl,109
+Multivitamins,110
+DiphenhydrAMINE HCl,111
+Duloxetine,112
+Potassium Chl 20 mEq / 1000 mL D5 1/2 NS,113
+Labetalol,114
+Midazolam,115
+CeftriaXONE,116
+Heparin Flush (100 units/ml),117
+Acetaminophen w/Codeine,118
+Desmopressin Acetate,119
+MetFORMIN (Glucophage),120
+GlyBURIDE,121
+Heparin Flush Midline (100 units/ml),122
+Cephalexin,123
+Potassium Chl 40 mEq / 1000 mL D5 1/2 NS,124
+CefazoLIN,125
+Enoxaparin Sodium,126
+Olanzapine (Disintegrating Tablet),127
+Gemfibrozil,128
+Pioglitazone HCl,129
+Glipizide XL,130
+Ferrous Sulfate,131
+Ascorbic Acid,132
+Heparin Flush CVL  (100 units/ml),133
+Irbesartan,134
+Lansoprazole Oral Suspension,135
+AcetaZOLAMIDE Sodium,136
+D5LR,137
+Cefepime,138
+Psyllium Wafer,139
+Calcium Chloride,140
+Tacrolimus,141
+Valganciclovir HCl,142
+Fluconazole,143
+Phenytoin,144
+Sulfameth/Trimethoprim SS,145
+Acetylcysteine 20%,146
+1/2 NS,147
+Folic Acid,148
+Thiamine HCl,149
+Linezolid,150
+Heparin Flush PICC (100 units/ml),151
+D5W (EXCEL BAG),152
+Ampicillin Sodium,153
+Phenytoin Sodium,154
+NS (Glass Bottle),155
+Ezetimibe,156
+Pulmicort,157
+Valsartan,158
+Metoprolol XL,159
+Acetaminophen (Liquid),160
+GlipiZIDE XL,161
+Phytonadione,162
+Meropenem,163
+HydrALAZINE HCl,164
+Latanoprost 0.005% Ophth. Soln.,165
+Isosorbide Dinitrate,166
+Oxymetazoline HCl,167
+Oxycodone,168
+traZODONE HCl,169
+Pneumococcal Vac Polyvalent,170
+DopAmine,171
+Carbidopa-Levodopa (25-100),172
+Sodium Polystyrene Sulfonate,173
+Mannitol,174
+Cisatracurium Besylate,175
+Artificial Tears,176
+Clindamycin,177
+Guaifenesin,178
+Miconazole Powder 2%,179
+Hydrocortisone,180
+Methylprednisolone Na Succ,181
+Scopolamine Patch,182
+Morphine Sulfate IR,183
+Norepinephrine Bitartrate,184
+Octreotide Acetate,185
+Albumin 25% (12.5gm),186
+Ceftazidime,187
+Oxycodone (Sustained Release),188
+Vitamin D,189
+Calcium Carbonate,190
+Gabapentin,191
+Hydroxychloroquine Sulfate,192
+Potassium Chl 40 mEq / 1000 mL D5NS,193
+Rosiglitazone Maleate,194
+CycloSPORINE (Sandimmune),195
+CycloSPORINE Modified (Neoral),196
+Digoxin,197
+Azathioprine,198
+DOBUTamine,199
+Dolasetron Mesylate,200
+Doxycycline Hyclate,201
+HydrOXYzine HCl,202
+Hydrocortisone Cream 1%,203
+Clobetasol Propionate 0.05% Ointment,204
+Ondansetron ODT,205
+Alprazolam,206
+Readi-Cat 2 (Barium Sulfate 2% Suspension),207
+Thiamine,208
+Venlafaxine XR,209
+Desonide 0.05% Cream,210
+Sarna Lotion,211
+Triamcinolone Acetonide 0.1% Ointment,212
+Hydrocortisone Cream 2.5%,213
+Glyburide,214
+Lansoprazole Oral Solution,215
+Milrinone,216
+Ipratropium Bromide,217
+Nesiritide,218
+Bumetanide,219
+Losartan Potassium,220
+OxycoDONE (Immediate Release) ,221
+Oxybutynin,222
+Quetiapine Fumarate,223
+Topiramate,224
+Levetiracetam,225
+HYDROmorphone,226
+Methadone HCl,227
+D5NS,228
+Lyrica,229
+Nystatin,230
+Hyoscyamine,231
+Acetaminophen-Caff-Butalbital,232
+Fluoxetine,233
+Methadone,234
+HydrALAzine,235
+Sterile Water,236
+Maalox/Diphenhydramine/Lidocaine,237
+Avapro,238
+DiphenhydrAMINE,239
+HydrOXYzine,240
+Clotrimazole,241
+Acetaminophen IV,242
+Olanzapine,243
+Lidocaine 5% Patch,244
+Fexofenadine,245
+Influenza Virus Vaccine,246
+Potassium Phosphate,247
+Lansoprazole Oral Disintegrating Tab,248
+Ciprofloxacin,249
+Xopenex,250
+MetRONIDAZOLE (FLagyl),251
+Fluticasone-Salmeterol (250/50) ,252
+Sodium Phosphate,253
+Montelukast Sodium,254
+Sulfameth/Trimethoprim DS,255
+Polysaccharide Iron Complex,256
+Labetalol HCl,257
+Racepinephrine,258
+Diltiazem Extended-Release,259
+GlipiZIDE,260
+CeftazIDIME,261
+Pyridoxine HCl,262
+Oxycodone SR (OxyconTIN),263
+fenofibrate,264
+Clonazepam,265
+Golytely,266
+Glucagon,267
+Sotalol,268
+Vancomycin Oral Liquid,269
+CefTRIAXone,270
+Azithromycin ,271
+Mupirocin Nasal Ointment 2%,272
+Ampicillin-Sulbactam,273
+Albuterol MDI,274
+AcetaZOLamide,275
+AcetaZOLamide Sodium,276
+Ticlopidine HCl,277
+Comtan,278
+Cholestyramine,279
+DOPamine,280
+Isotonic Sodium Chloride,281
+Gentamicin,282
+Alteplase (Catheter Clearance),283
+Sulfameth/Trimethoprim,284
+Benzocaine 20% Spray,285
+BusPIRone,286
+Mirtazapine,287
+Nitroglycerin Ointment  2%,288
+Metoprolol XL (Toprol XL),289
+Aluminum Hydroxide Suspension,290
+Nystatin Ointment,291
+Verapamil HCl,292
+Phenytoin (Suspension),293
+Glyburide/Metformin (5mg-500mg),294
+Lidocaine Jelly 2%,295
+Oxycodone-Acetaminophen Elixir,296
+Psyllium,297
+Acyclovir Ointment 5%,298
+Vitamin E,299
+Levalbuterol HCl,300
+Fentanyl Patch,301
+Alendronate Sodium,302
+Ferric Gluconate,303
+Sevelamer,304
+Fluticasone Propionate NASAL,305
+Collagenase Ointment,306
+Sorbitol,307
+Lacri-Lube Oint,308
+Naloxone HCl,309
+Loperamide,310
+Desitin,311
+Lidocaine Viscous 2%,312
+Protamine Sulfate,313
+Ursodiol,314
+Lantus,315
+Carvedilol,316
+Enalapril Maleate,317
+Glyburide/Metformin (2.5mg-500mg),318
+Nitroglycerin Oint. 2%,319
+Sertraline HCl,320
+Albumin 5% (12.5gm),321
+Magnesium Citrate,322
+Spironolactone,323
+Ciprofloxacin IV,324
+Brimonidine Tartrate 0.15% Ophth.,325
+Timolol Maleate 0.5%,326
+D5W (Glass Bottle),327
+Mycophenolate Mofetil,328
+Risperidone,329
+Escitalopram Oxalate,330
+Epoetin Alfa,331
+BuPROPion (Sustained Release),332
+Fish Oil (Omega 3),333
+Syringe (IV Room),334
+Guaifenesin-Codeine Phosphate,335
+Dextromethorphan Poly Complex,336
+CeftAZIDime,337
+Filgrastim,338
+Gentamicin Sulfate,339
+Cyclobenzaprine HCl,340
+Lumigan,341
+Dorzolamide 2%/Timolol 0.5% Ophth.,342
+Multivitamin IV,343
+Acetaminophen (Rectal),344
+PHENYLEPHrine,345
+5% Dextrose (EXCEL BAG),346
+Unasyn,347
+Mucinex,348
+Miconazole 2% Cream,349
+Methylprednisolone Sodium Succ,350
+Salmeterol,351
+Pseudoephedrine HCl,352
+Primidone,353
+Nystatin Oral Suspension,354
+Augmentin Suspension,355
+Methylprednisolone Na Succ.,356
+Verapamil SR,357
+Lactated Ringers,358
+Amino Acids 4.25% W/ Dextrose 5%,359
+Oxacillin,360
+Lansoprazole,361
+Acetazolamide,362
+Morphine Sulfate SR,363
+AMP,364
+Morphine Sulfate (Concentrated Oral Soln),365
+Artificial Tear Ointment,366
+Fleet Phospho-Soda,367
+Benztropine Mesylate,368
+Nicotine,369
+Methylphenidate HCl,370
+Memantine,371
+Erythromycin 0.5% Ophth Oint,372
+Patanol,373
+Artificial Tears Preserv. Free,374
+Tirofiban,375
+Trandolapril,376
+Acetylcysteine,377
+Celebrex,378
+Aztreonam,379
+Adenosine,380
+Mupirocin Cream 2%,381
+Triamcinolone Acetonide 0.1% Cream,382
+FoLIC Acid,383
+Tiotropium Bromide,384
+Advair Diskus,385
+Succinylcholine,386
+Etomidate,387
+LaMOTrigine,388
+Hydrocodone-Acetaminophen,389
+Sertraline,390
+Fondaparinux Sodium,391
+Ibuprofen Suspension,392
+Hurricaine Spray,393
+Solution,394
+Nystatin Cream,395
+Syringe (0.9% Sodium Chloride),396
+Multi,397
+Colchicine,398
+Fluoxetine HCl,399
+Pilocarpine 0.5%,400
+Potassium Chloride (Powder),401
+Metoprolol Succinate XL,402
+Paroxetine HCl,403
+Meclizine HCl,404
+Syringe (Intrapleural),405
+Famotidine (IV),406
+Theophylline ER (Uniphyl),407
+Dobutamine,408
+Megestrol Acetate,409
+Amoxicillin-Clavulanic Acid,410
+TraMADOL (Ultram),411
+Tricor,412
+Nephrocaps,413
+Chlorhexidine Gluconate,414
+Zinc Sulfate,415
+Calcium Acetate,416
+Amoxicillin,417
+Clarithromycin,418
+Imipenem-Cilastatin,419
+Alcohol 10%,420
+Ranitidine (Liquid),421
+Ascorbic Acid (Liquid),422
+Dipyridamole-Aspirin,423
+Ethacrynic Acid,424
+Triamterene-Hydrochlorothiazide,425
+Dicloxacillin,426
+Calcium Carbonate Suspension,427
+Potassium Chl 20 mEq / 1000 mL NS,428
+Esmolol,429
+OxycoDONE Liquid,430
+Papain 2.5 % Solution,431
+Bacitracin Ointment,432
+Cyanocobalamin,433
+Lamivudine,434
+Tenofovir Disoproxil Fum.,435
+Atazanavir,436
+Ritonavir,437
+Mirapex,438
+Normocarb,439
+Sodium Chloride 23.4%,440
+NIFEdipine CR,441
+Clonidine TTS 1 Patch,442
+Mesalamine,443
+Chlorothiazide Sodium,444
+Albumin 5% (25 g),445
+Lanthanum,446
+Isoniazid,447
+Dexmedetomidine HCl,448
+Theophylline (Oral Solution),449
+Theophylline SR,450
+Carbidopa-Levodopa (25-250),451
+OxycodONE (Immediate Release) ,452
+Hydrocortisone Cream 0.5%,453
+Ethacrynate Sodium,454
+Acyclovir,455
+Aveeno Bath,456
+Pyridostigmine Bromide,457
+Loperamide HCl,458
+Tuberculin Protein,459
+Quinapril,460
+Pamidronate,461
+Calcitonin Salmon,462
+Bethanechol,463
+Potassium Chl 40 mEq / 1000 mL NS,464
+D10W,465
+Albumin 5% (12.5 g),466
+BuPROPion,467
+Metolazone,468
+Piperacillin-Tazobactam,469
+Cinacalcet,470
+sevelamer CARBONATE,471
+Syringe (PD),472
+Oxycodone Liquid,473
+Calcitriol,474
+Albumin 25% (12.5g / 50mL),475
+Syringe (Intraperitoneal),476
+Latanoprost,477
+Erythromycin,478
+Promethazine HCl,479
+Benicar,480
+PNEUMOcoccal Vac Polyvalent,481
+Naproxen,482
+Baclofen,483
+Clobetasol Propionate 0.05% Cream,484
+Enalaprilat,485
+Albumin 5% (25g / 500mL),486
+Sulfamethoxazole-Trimethoprim,487
+Pregabalin,488
+LeVETiracetam,489
+MoviPrep,490
+Ferrous Sulfate (Liquid),491
+Gastroview (Diatrizoate Meglumine & Sodium),492
+Torsemide,493
+Tizanidine,494
+Amlodipine Besylate,495
+Clonidine Patch 0.3 mg/24 hr,496
+Olanzapine (Disintergrating Tablet),497
+Caspofungin,498
+Chlordiazepoxide HCl,499
+Acetazolamide Sodium,500
+Soln,501
+Chlorthalidone,502
+Doxepin HCl,503
+Nafcillin,504
+Morphine SR (MS Contin),505
+NiCARdipine IV,506
+Pangestyme-EC,507
+Voriconazole,508
+Creon 10,509
+Lamotrigine,510
+Valproic Acid,511
+Valtrex,512
+Diphenoxylate-Atropine,513
+Venlafaxine,514
+Aripiprazole,515
+Calcium Replacement (Oncology),516
+Potassium Chloride Replacement (Oncology),517
+OxycoDONE-Acetaminophen Elixir,518
+Temazepam,519
+Nortriptyline,520
+NS (Syringe),521
+Niacin,522
+Propranolol HCl,523
+Divalproex Sod. Sprinkles,524
+Divalproex Sodium,525
+Daptomycin,526
+Citalopram,527
+Aspirin (Buffered),528
+Flecainide Acetate,529
+Divalproex (DELayed Release),530
+Vancomycin Enema,531
+NS (Irrigation Bottle),532
+Ropinirole,533
+Exelon,534
+Ampicillin,535
+NIFEdipine,536
+Potassium Chl 40 mEq / 1000 mL D5W,537
+Ziprasidone,538
+Entacapone,539
+Potassium Chl 20 mEq / 1000 mL D5W,540
+Tocopheryl,541
+Lithium Carbonate,542
+Tobramycin-Dexamethasone Ophth Susp,543
+Felodipine,544
+Phenaseptic Throat Spray,545
+Acarbose,546
+Lidocaine 5% Ointment,547
+Phentolamine Mesylate,548
+Albumin 5%,549
+Dexmedetomidine Hcl,550
+Bupropion HCl,551
+Dexmedetomidine,552
+Guaifenesin-CODEINE Phosphate,553
+Fentanyl,554
+Bupropion SR,555
+Moexipril HCl,556
+Vioxx,557
+DiCLOXacillin,558
+Clotrimazole Cream,559
+Rifaximin,560
+Desmopressin Nasal,561
+CloniDINE,562
+Drotrecogin Alfa (Xigris),563
+Tucks Hemorrhoidal Oint 1%,564
+Hemorrhoidal Suppository,565
+Bisoprolol Fumarate,566
+Cyclosporine Modified (Neoral),567
+Prednisolone Acetate 1% Ophth. Susp.,568
+Neomycin-Polymyxin-Bacitracin,569
+Potassium Chl 20 mEq / 1000 mL D5NS,570
+Fluvastatin Sodium,571
+Betaxolol Hcl  0.25%,572
+Mannitol 20%,573
+sodium,574
+AcetaZOLAMIDE,575
+Multivitamins W/minerals,576
+Cefpodoxime Proxetil,577
+Viokase 8,578
+Niacin SR,579
+Papain-Urea Ointment,580
+multi,581
+Sulfameth/Trimethoprim Suspension,582
+Alteplase,583
+Bismuth Subsalicylate,584
+PrednisoLONE Acetate 1% Ophth. Susp.,585
+Meropenem Desensitization,586
+Phenazopyridine HCl,587
+Epinephrine 1:1000,588
+Quinine Sulfate,589
+Desipramine HCl,590
+Humalog,591
+Ramipril,592
+sodium bicarb,593
+NORepinephrine,594
+Fluticasone-Salmeterol Diskus (500/50) ,595
+Clonidine HCl,596
+Timolol Maleate 0.25%,597
+Azopt,598
+Aminocaproic Acid,599
+Emtricitabine,600
+Efavirenz,601
+ATRIPLA,602
+Heparin Flush CRRT (5000 Units/mL),603
+Silver Sulfadiazine 1% Cream,604
+Dextromethorphan-Guaifenesin (Sugar Free),605
+Fluvoxamine Maleate,606
+Stavudine,607
+Paricalcitol,608
+Ropinirole HCl,609
+Cinacalcet HCl,610
+Glucophage XR,611
+Glycerin Supps,612
+sodium bicar,613
+Bupropion (Sustained Release),614
+Sotalol HCl,615
+Carbamazepine,616
+Beclomethasone Dipro. AQ (Nasal),617
+D5 1/4NS,618
+Travatan,619
+Bacitracin-Polymyxin Ointment,620
+Zonisamide,621
+Valproate Sodium,622
+Flumazenil,623
+Divalproex (EXTended Release),624
+Divalproex Sodium ER,625
+Fluticasone Propionate Nasal,626
+Albumin 25% (12.5 g),627
+Hyoscyamine SO4 (Time Release),628
+Nifedipine,629
+Pancrease,630
+Mesalamine DR,631
+Midodrine,632
+Heparin Flush Port (10units/ml),633
+Midodrine HCl,634
+Heparin Flush Hickman (100 units/ml),635
+Lactulose Enema,636
+Miralax,637
+Beclomethasone Dipropionate,638
+Disopyramide Phosphate,639
+Prilosec,640
+Ambisome,641
+Indomethacin,642
+Oxycodone-Acetaminophen (5mg-325mg),643
+EPINEPHrine,644
+Testosterone 5mg Patch,645
+Clopidogrel,646
+Repaglinide,647
+Aprotinin (Bovine),648
+"Albumin, Human",649
+Oseltamivir,650
+Oxcarbazepine,651
+Methylene Blue 1%,652
+0.45% Sodium Chloride,653
+Promethazine,654
+Creon 12,655
+Dronabinol,656
+Adderall XR,657
+Chlorothiazide,658
+Lithium Carbonate CR (Eskalith),659
+Fluticasone-Salmeterol Diskus (250/50) ,660
+Lidocaine 2%,661
+Rofecoxib,662
+Tigecycline,663
+Sodium Chloride,664
+Prismasate (B22 K4),665
+Prismasate (B32 K2),666
+Citrate Dextrose 3% (ACD-A) CRRT,667
+Heparin Flush (5000 Units/mL),668
+Cepacol (Menthol),669
+Clonidine TTS 2 Patch,670
+Ethambutol HCl,671
+Streptomycin Sulfate,672
+Pentoxifylline,673
+Morphine Sulfate (Oral Soln.),674
+Aspirin Desensitization (Angioedema),675
+Nystatin Oral Susp.,676
+sevelamer HYDROCHLORIDE,677
+Travasol 4.25% W/ Dextrose 5%,678
+Multivitamin 12,679
+Sodium Chloride 3% (Hypertonic),680
+CefTAZidime,681
+Lidocaine 1%/Epinephrine 1:100000,682
+Aquaphor Ointment,683
+Bengay,684
+Naloxone,685
+Heparin Flush (1000 units/mL),686
+Lovastatin,687
+Vitamin A,688
+Sodium CITRATE 4%,689
+Ciprofloxacin 0.3% Ophth Soln,690
+SulfaSALAzine_,691
+Pramipexole,692
+Actonel,693
+0.45 % Sodium Chloride,694
+Cyclosporine (Sandimmune),695
+Nabumetone,696
+Prazosin HCl,697
+Hydroxyurea,698
+Amantadine,699
+Eucerin,700
+Carbidopa-Levodopa (10-100),701
+Atovaquone Suspension,702
+Penicillin G Potassium,703
+Paroxetine,704
+Epinephrine Inhalation,705
+Magnesium Sulfate Replacement (Oncology),706
+Oseltamivir Phosphate,707
+Multivitamin-12,708
+Sodium Chloride ,709
+Docusate,710
+Hydrocerin,711
+Heparin CRRT,712
+Trisodium Citrate 0.4% Replacement Soln,713
+Fosamprenavir,714
+Zidovudine,715
+LaMIVudine-Zidovudine (Combivir),716
+RiTONAvir,717
+Vitamin B Complex w/C,718
+Darunavir,719
+Phenytoin Sodium Extended,720
+Carbidopa-Levodopa CR (25-100),721
+Oxymetazoline,722
+Nicotine Polacrilex,723
+Tobramycin Sulfate,724
+Dakins 1/4 Strength,725
+Amphotericin B,726
+Sterile Water For Irrigation,727
+Ranexa,728
+Sumatriptan Succinate,729
+Fluticasone-Salmeterol Diskus (100/50),730
+Prednisolone Acetate 0.12% Ophth. Susp.,731
+Lepirudin,732
+Atropine Sulfate Ophth 1%,733
+Bacitracin/Polymyxin B Sulfate Opht. Oint,734
+Mycophenolate Mofetil Suspension,735
+Hydroxyzine HCl,736
+Sildenafil,737
+Dorzolamide 2% Ophth. Soln.,738
+Abacavir Sulfate,739
+Didanosine EC,740
+Risperidone (Disintegrating Tablet),741
+D5W (GLASS BOTTLE),742
+Qvar,743
+Phosphorus,744
+Carbamazepine Suspension,745
+Methylphenidate SR,746
+LaMIVudine,747
+Epinephrine HCl,748
+ValGANCIclovir Suspension,749
+Tobramycin-Dexamethasone Ophth Oint,750
+Estrogens Conjugated,751
+Tobramycin Inhalation Soln,752
+Bicitra,753
+Heparin Dwell (1000 Units/mL),754
+Terazosin,755
+Dapsone,756
+Hydrocortisone (Rectal) 2.5% Cream,757
+Phenobarbital,758
+Zelnorm,759
+Triamcinolone Acetonide 0.025% Cream,760
+Glucose Tab,761
+Scopolamine 0.25% Ophth Soln,762
+Lidocaine 0.5%,763
+Vitamin B Complex,764
+Rocuronium,765
+TB Syringe,766
+Insulin Regular Human (U-500),767
+Sildenafil Citrate,768
+Niaspan,769
+Adderall,770
+Evista,771
+Kaopectate/Benadryl/Lido Visc.,772
+Heparin (IABP),773
+Dofetilide,774
+Nitrofurantoin (Macrodantin),775
+Clozapine,776
+Tamoxifen Citrate,777
+CycloSPORINE (Neoral) MODIFIED,778
+Tizanidine HCl,779
+Buspirone,780
+Tacrolimus Suspension,781
+Argatroban,782
+Topiramate (Topamax),783
+Fentanyl PCA,784
+NS        (Glass Bottle),785
+Trihexyphenidyl HCl,786
+Carbidopa-Levodopa CR (50-200),787
+Penicillin V Potassium,788
+Insulin Pump,789
+Miconazole Nitrate Vaginal,790
+Provigil,791
+Fleet Enema,792
+Debrox 6.5%,793
+Bismuth Subsalicylate Chewable,794
+Sirolimus,795
+Codeine Phosphate,796
+Trifluoperazine HCl,797
+Hydrocortisone Acetate Ointment 1%,798
+Miconazole Nitrate (Combo Pack),799
+Pletal,800
+Digoxin Immune Fab,801
+Methylphenidate,802
+Doxercalciferol,803
+Phenazopyridine,804
+Caphosol,805
+Probenecid,806
+Perphenazine,807
+Lopinavir-Ritonavir,808
+Tromethamine,809
+Emtricitabine-Tenofovir (Truvada),810
+Methyldopa,811
+Droperidol,812
+Salsalate,813
+Cilostazol,814
+Ceftriaxone Desensitization,815
+Fluorometholone 0.1% Ophth Susp.,816
+Hydromorphone-HP,817
+Minocycline HCl,818
+Cyclophosphamide,819
+Ketoconazole 2% ,820
+PrimiDONE,821
+Methylprednisolone,822
+Acetaminophen w/Codeine Elixir,823
+Eplerenone,824
+Acetylcysteine (IV),825
+*NF* Ertapenem Sodium,826
+Nystatin-Triamcinolone Cream,827
+Pyrazinamide,828
+Chloraseptic Throat Spray,829
+Albumin 5% (12.5g / 250mL),830
+Clopidogrel Desensitization,831
+*NF* Levetiracetam,832
+Zofran,833
+*NF* Temozolomide,834
+Mineral Oil,835
+Abciximab,836
+Albuterol Sulfate,837
+Syringe (PCA),838
+Carbamazepine XR,839
+HYDROmorphone-HP,840
+quiniDINE Gluconate E.R.,841
+GELCLAIR,842
+Thrombin,843
+Nevirapine,844
+Avodart,845
+Nitroglycerin SR,846
+Amikacin,847
+Fenofibrate,848
+Mesalamine (Rectal),849
+Naphazoline-Pheniramine Ophth. Solution,850
+MedroxyPROGESTERone Acetate,851
+MetFORMIN XR (Glucophage XR),852
+Methocarbamol,853
+Xopenex Neb,854
+Thiamine Study Drug (*IND*),855
+Dipyridamole,856
+Syringe (NS),857
+Micafungin,858
+Cyclobenzaprine,859
+Butalbital-Acet-Caffeine,860
+Amiloride HCl,861
+Indinavir Sulfate,862
+Amitriptyline,863
+Modafinil,864
+Pyridoxine,865
+Etravirine,866
+Miconazole Nitrate Vag Cream 2%,867
+Iron Polysaccharides Complex,868
+Arimidex,869
+Syringe (Chemo),870
+Lidocaine 1% P.F.,871
+Alteplase 1mg/1mL ( Clearance ie. Temp TLCL ),872
+Verapamil,873
+Propafenone HCl,874
+NS Syringe (Intrapleural),875
+Clonidine TTS 3 Patch,876
+MethylPHENIDATE (Ritalin),877
+Levobunolol Hcl 0.5%,878
+NiCARdipine,879
+Epoprostenol Na,880
+Sterile Diluent for Flolan,881
+Hydrocortisone Study Drug (*IND*),882
+Budesonide,883
+Insulin Glargine,884
+Clonidine Patch 0.1 mg/24 hr,885
+Glimepiride,886
+Albuterol ,887
+Rifampin,888
+Danazol,889
+Lactic Acid 12% Lotion,890
+Fluphenazine,891
+PHENObarbital,892
+Aspirin ,893
+Pilocarpine 4%,894
+Tenofovir Disoproxil (Viread),895
+Methazolamide,896
+Loxapine Succinate,897
+Sodium Citrate 4%,898
+Heparin Flush Port (10 units/mL),899
+Albumin 5% ,900
+Fosphenytoin,901
+ValGANCIclovir,902
+Opium Tincture,903
+Lidocaine-Prilocaine,904
+OLANZapine,905
+Gammagard Liquid,906
+Pioglitazone,907
+Iron Dextran Complex,908
+Propranolol LA,909
+Heparin (CRRT Machine Priming),910
+Fluocinonide 0.05% Cream,911
+Maalox/Lidocaine,912
+Pancrelipase 5000,913
+Quetiapine extended-release,914
+Meclizine,915
+Betaxolol Ophth Susp  0.25%,916
+Restasis,917
+Bupivacaine 0.5%,918
+NS Epidural Bag ,919
+HYDROmorphone P.F.,920
+Nitrofurantoin Monohyd (MacroBID),921
+Aspirin Desensitization (AERD),922
+Sodium Chloride 3% Inhalation Soln,923
+0.83% Sodium Chloride,924
+Methylnaltrexone,925
+Heparin (Hemodialysis),926
+LeVETiracetam Oral Solution,927
+Docusate ,928
+Hydrocodone-Acetaminophen (5mg-500mg,929
+Amoxicillin-Clavulanate Susp.,930
+Haemophilus B Conj. Vaccine,931
+Prasugrel,932
+Carbamide Peroxide 6.5%,933
+OLANZapine (Disintegrating Tablet),934
+Mannitol 20 %,935
+Moexipril,936
+Propranolol,937
+Imipramine,938
+Phenytoin Infatab,939
+300 mcg Vial,940
+Amino Acids 4.25%-Dextrose 5%,941
+Clonidine Patch 0.2 mg/24 hr,942
+ValACYclovir,943
+Viokase-8,944
+Propylthiouracil,945
+MEMAntine,946
+Levalbuterol Neb,947
+Lubiprostone,948
+Ketamine,949
+Ranolazine,950
+Fomepizole,951
+Phenytoin Sodium (IV),952
+Magnesium Sulfate (Latex Free),953
+glimepiride,954
+Desipramine,955
+Cromolyn Sodium (Nasal Inhalation),956
+Bottle,957
+Imatinib Mesylate,958
+Hydrocortisone Acetate Suppository,959
+baclofen,960
+Apraclonidine 0.5%,961
+Insulin Pump (Self Administering Medication),962
+Sodium Thiosulfate,963
+Posaconazole Suspension,964
+Ganciclovir,965
+fenofibrate micronized,966
+Liothyronine Sodium,967
+Bupivacaine 0.1%,968
+Yellow CADD Cassette,969
+Piroxicam,970
